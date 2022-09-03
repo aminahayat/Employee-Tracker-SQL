@@ -1,7 +1,5 @@
 // get the dependencies
 const inquirer = require('inquirer');
-// get the dependencies
-const inquirer = require('inquirer');
 
 
 let connection;
