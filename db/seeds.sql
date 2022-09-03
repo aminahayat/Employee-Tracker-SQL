@@ -7,14 +7,14 @@ VALUES
 
 INSERT INTO roles (title, salary, department_id)
 VALUES
-    ('Sales Lead', 100000, 1),
-    ('Salesperson', 80000, 1),
+    ('Sales Consultant', 100000, 1),
+    ('Azure Specialist', 80000, 1),
     ('Lead Engineer', 170000, 2),
     ('Software Engineer', 150000, 2),
-    ('Account Manager', 190000, 3),
+    ('Project Manager', 190000, 3),
     ('Accountant', 130000, 3),
     ('Legal Team Lead', 230000, 4),
-    ('Lawyer', 200000, 4);
+    ('Scrum Master', 200000, 4);
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES
